@@ -1,0 +1,24 @@
+[
+  {
+    "BANK": "Bank of China Limited India Branch",
+    "IFSC": "BCHN0000002",
+    "BRANCH": "MUMBAI",
+    "ADDRESS": "41-B, 4th Floor, 4th North Avenue, Maker Maxity, BKC, Bandra East Mumbai 400051",
+    "CITY1": "MUMBAI",
+    "CITY2": "MUMBAI",
+    "STATE": "MAHARASHTRA",
+    "STD CODE": 22,
+    "PHONE": 68246666
+  },
+  {
+    "BANK": "Bank of China Limited India Branch",
+    "IFSC": "BCHN0000001",
+    "BRANCH": "RTGS-HO",
+    "ADDRESS": "41-B, 4th Floor, 4th North Avenue, Maker Maxity, BKC, Bandra East Mumbai 400051",
+    "CITY1": "MUMBAI",
+    "CITY2": "MUMBAI",
+    "STATE": "MAHARASHTRA",
+    "STD CODE": 22,
+    "PHONE": 68246666
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "BANK": "B N P PARIBAS",
+    "IFSC": "BNPA0009378",
+    "BRANCH": "BANGALORE",
+    "ADDRESS": "BNP Paribas, Salarpuria Windsor, Ground Floor no 3,Ulsoor Road , Bangalore 560 042",
+    "CITY1": "BANGALORE",
+    "CITY2": "BANGALORE",
+    "STATE": "KARNATAKA",
+    "STD CODE": 80,
+    "PHONE": 66076215
+  },
+  {
+    "BANK": "B N P PARIBAS",
+    "IFSC": "BNPA0009088",
+    "BRANCH": "CHENNAI",
+    "ADDRESS": "PRINCE TOWERS,3RD FL,25/26,COLLEGE ROAD,CHENNAI-600 006",
+    "CITY1": "CHENNAI",
+    "CITY2": "CHENNAI",
+    "STATE": "TAMIL NADU",
+    "STD CODE": 0,
+    "PHONE": 0
+  },
+  {
+    "BANK": "B N P PARIBAS",
+    "IFSC": "BNPA0009077",
+    "BRANCH": "DELHI",
+    "ADDRESS": "BNP Paribas, Sood Towers East Towers, 25 Barakhamba Road,8th Floor, New Delhi 110001",
+    "CITY1": "DELHI",
+    "CITY2": "DELHI",
+    "STATE": "DELHI",
+    "STD CODE": 11,
+    "PHONE": 41796613
+  },
+  {
+    "BANK": "B N P PARIBAS",
+    "IFSC": "BNPA0009069",
+    "BRANCH": "PUNE",
+    "ADDRESS": "5 & 6,GODREJ MILLENIUM PARK,9,KOREGAON ROAD,PUNE-411 001",
+    "CITY1": "PUNE",
+    "CITY2": "PUNE",
+    "STATE": "MAHARASHTRA",
+    "STD CODE": 0,
+    "PHONE": 0
+  },
+  {
+    "BANK": "B N P PARIBAS",
+    "IFSC": "BNPA0009067",
+    "BRANCH": "BANGALORE",
+    "ADDRESS": "Salarpuria Windsor, Ground Floor, No.3, Ulsoor Road,Bengaluru - 560 042",
+    "CITY1": "BANGALORE URBAN",
+    "CITY2": "BANGALORE",
+    "STATE": "KARNATAKA",
+    "STD CODE": 80,
+    "PHONE": 66076200
+  },
+  {
+    "BANK": "B N P PARIBAS",
+    "IFSC": "BNPA0009065",
+    "BRANCH": "DELHI",
+    "ADDRESS": "8th FLOOR EAST TOWER (SOOD TOWER), 25, BARAKHAMBA ROAD,NEW DELHI - 110001",
+    "CITY1": "DELHI",
+    "CITY2": "DELHI",
+    "STATE": "DELHI",
+    "STD CODE": 11,
+    "PHONE": 41796600
+  },
+  {
+    "BANK": "B N P PARIBAS",
+    "IFSC": "BNPA0009009",
+    "BRANCH": "MUMBAI",
+    "ADDRESS": "BNP PARIBAS,BNP PARIBAS HOUSE,1 NORTH AVENUE,GROUND FLOOR,MAKER MAXITY,BANDRA KURLA COMPLEX,BANDRA EAST,MUMBAI 400051",
+    "CITY1": "MUMBAI",
+    "CITY2": "MUMBAI",
+    "STATE": "MAHARASHTRA",
+    "STD CODE": 22,
+    "PHONE": 33704000
+  },
+  {
+    "BANK": "B N P PARIBAS",
+    "IFSC": "BNPA0009008",
+    "BRANCH": "DELHI",
+    "ADDRESS": "BNP Paribas, Sood Towers East Towers, 25 Barakhamba Road,8th Floor, New Delhi 110001",
+    "CITY1": "DELHI",
+    "CITY2": "DELHI",
+    "STATE": "DELHI",
+    "STD CODE": 11,
+    "PHONE": 41796613
+  }
+]
